@@ -1,6 +1,7 @@
 ##Python入门
 
 ####Python 数据类型
+
 Python3中有6个标准的数据类型
 * Number (数字)
     >整数  int
